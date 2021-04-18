@@ -1,0 +1,26 @@
+.para{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 16px;
+    font-weight: 900px;
+    text-align: justify; /* For Edge */
+  
+}
+
+#banner_image{
+    padding-top: 75px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(./img/1.jpeg) no-repeat center center;
+    background-size: cover;
+    height: 450px;
+    margin: 50px 100px 50px 100px;
+}
+#banner_content{
+    padding-top: 15px;
+    position: relative;
+     margin-bottom: 12px;
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 200px;
+    max-width: 450px;
+}
